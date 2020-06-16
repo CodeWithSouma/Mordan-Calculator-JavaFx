@@ -1,4 +1,4 @@
-# Mordan-Calculator-JavaFx
+# Mordan Calculator Using JavaFx
 
 ![JDK](https://img.shields.io/badge/JDK-jdk--8u251-orange)       ![NetBans](https://img.shields.io/badge/NetBeans-v--8.2-blue)
 
@@ -33,7 +33,7 @@ git clone https://github.com/CodeWithSouma/Mordan-Calculator-JavaFx.git
 ---
 ## Screenshot
 
-*![Calculator image](https://github.com/CodeWithSouma/Mordan-Calculator-Using-Java-Swing/blob/master/Screenshot/swing_calculator.png)*
+*![Calculator image](https://github.com/CodeWithSouma/Mordan-Calculator-JavaFx/blob/master/Screnshot/javafx_calculator.PNG)*
 
 ---
 ## LICENSE
